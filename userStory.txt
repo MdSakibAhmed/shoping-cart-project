@@ -1,0 +1,13 @@
+User Story that have to fulfill
+
+1. After click on + i have to update item number and price with it.
+
+2. After click on - i have to update item number and subtract price 
+
+3. After click on + and - subtotal have to be updated
+
+4. After click + i have to add 15% of the price as vat 
+
+5. After click - i have to subtract the vat also.
+
+6. After click + - i have to update total by calculating subtotal and vat
